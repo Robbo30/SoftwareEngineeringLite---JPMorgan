@@ -9,5 +9,6 @@
  3. ### Task 2: RewardValueTests
     - #### This Tasks challanges you to test and fix the RewardValueTests code ensuring all tests are passed.
 
-    
-    
+    [Certificate.pdf](https://github.com/Robbo30/SoftwareEngineeringLite---JPMorgan/files/14016355/Certificate.pdf)
+
+Link to the Programme: https://www.theforage.com/simulations/jpmorgan/software-engineering-lite-iqaz
